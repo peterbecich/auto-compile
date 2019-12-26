@@ -1,6 +1,8 @@
 Automatically compile Emacs Lisp libraries
 ------------------------------------------
 
+[![Build Status](https://travis-ci.org/emacscollective/auto-compile.svg?branch=master)](https://travis-ci.org/emacscollective/auto-compile)
+
 This package provides two minor modes which automatically recompile
 Emacs Lisp source files.  Together these modes guarantee that Emacs
 never loads outdated byte code files.
